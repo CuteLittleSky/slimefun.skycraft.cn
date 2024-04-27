@@ -2,14 +2,13 @@
 home: true
 heroImage: /assets/logo.png
 actions:
-  - text: 进入粘液科技教程指南
-    link: /slimefun/
+  - text: 粘液科技玩家游玩教程
+    link: /sfguide/
     type: primary
     size: large
-  - text: 加入QQ群
-    link: https://jq.skycraft.cn/
+  - text: 粘液科技服主开服教程
+    link: /slimefun/
     type: primary
-    ghost: true
     size: large
 features:
   - title: 关于粘液科技教程指南网
