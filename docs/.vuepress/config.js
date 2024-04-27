@@ -13,8 +13,6 @@ module.exports = {
     smoothScroll: true,
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
-    lastUpdated: "最后更新",
-    repo: "CuteLittleSky/slimefun.skycraft.cn",
     docsDir: 'docs',
     docsBranch: 'main',
     smoothScroll: true,
